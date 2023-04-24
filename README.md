@@ -3,6 +3,16 @@
 
 利用EfficientNet-B1模型開發門禁管制辨識系統，門的部分利用MG996R伺服機模擬作為門打開和關閉的動作並製作出簡易門禁模型。身份辨識錯誤時，利用MQTT推播機制將推播訊息推播到監控網頁，讓使用者可在監控網頁上看到推播的通知並可以開啟相機即時查看門外情況和從資料庫讀取人臉影像照片並儲存到本地檔案裡，身份辨識成功，大門開啟並提醒或警告口罩是否戴好
 
+# 【人臉辨識流程】
+
+![image](https://user-images.githubusercontent.com/58096503/233927348-7c5d42c8-ada8-4c14-b413-83876530763b.png)
+
+
+# 【門禁辨識流程】
+
+![image](https://user-images.githubusercontent.com/58096503/233926814-d325cd05-9006-4d81-a5ec-b7302932ee10.png)
+
+
 
 # 【門禁監控系統網頁設計】
 使用 1. HTML、2. CSS3、3. JavaScript、4. Bootstrap3、5. jQuery進行網頁開發 
@@ -19,11 +29,9 @@
 
 3. 及時觀看功能-當有不明人士進行人臉解鎖時，看到推播的警告訊息時，能夠開啟相機及時查看當前門外狀況。
 
-# 【門禁辨識流程】
-
-![image](https://user-images.githubusercontent.com/58096503/233926814-d325cd05-9006-4d81-a5ec-b7302932ee10.png)
 
 
+# 【模擬環境】
 
 
-# 【門禁辨識流程】
+![image](https://user-images.githubusercontent.com/58096503/233928356-ba09ead5-9013-479f-adb8-00aad46d0a3a.png)
