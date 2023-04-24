@@ -15,7 +15,8 @@
 
 
 # 【門禁監控系統網頁設計】
-使用 1. HTML、2. CSS3、3. JavaScript、4. Bootstrap3、5. jQuery進行網頁開發 
+前端技術使用 1. HTML、2. CSS3、3. JavaScript、4. Bootstrap3、5. jQuery進行網頁開發 
+後端技術利用Apache Web Server作為網頁伺服器並利用PHP進行資料庫的儲存、讀取、刪除、建立數據。
 
 ![image](https://user-images.githubusercontent.com/58096503/233923276-8e69bda6-ad7e-4fa0-a208-2f449e6dbdb8.png)
 
@@ -38,7 +39,7 @@
 
 3. 及時觀看功能-當有不明人士進行人臉解鎖時，看到推播的警告訊息時，能夠開啟相機及時查看當前門外狀況。
 
-### 即時影像
+#### 即時影像
 
 ![image](https://user-images.githubusercontent.com/58096503/233939848-2a1b3c52-b9b9-47de-8fcf-8f0f6db2e0ce.png)
 
@@ -46,6 +47,10 @@
 # 【模擬環境】
 
 ![image](https://user-images.githubusercontent.com/58096503/233928356-ba09ead5-9013-479f-adb8-00aad46d0a3a.png)
+
+
+#### 大門模擬
+利用了硬體設備MG996R伺服機[20]如圖2，利用MG996R伺服機模擬門打開，門打開的旋轉角度為0至90度，再由90至0度關上門，實作簡易門禁模型
 
 # 【Demo】
 
