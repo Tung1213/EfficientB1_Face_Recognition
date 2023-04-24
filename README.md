@@ -16,6 +16,7 @@
 
 # 【門禁監控系統網頁設計】
 前端技術使用 1. HTML、2. CSS3、3. JavaScript、4. Bootstrap3、5. jQuery進行網頁開發 
+
 後端技術利用Apache Web Server作為網頁伺服器並利用PHP進行資料庫的儲存、讀取、刪除、建立數據。
 
 ![image](https://user-images.githubusercontent.com/58096503/233923276-8e69bda6-ad7e-4fa0-a208-2f449e6dbdb8.png)
