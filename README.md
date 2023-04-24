@@ -57,6 +57,10 @@
 
 
 
+https://user-images.githubusercontent.com/58096503/233949128-b624e071-5205-491a-89d8-9ab315f89330.mp4
+
+
+
 # 【結果與討論】
 
 人臉辨識和人臉偵測，主要分成四大部分，第一部份利用Data Augmentation(數據增強)使影像數據擴增，第二部分利用神經網絡結構搜索以CNN為基礎進行搜索Neural Architecture Space建立EfficientNet-B1 Model，第3部份利用EfficientNet-B1模型進行訓練，第四部分Face Detection利用了AdaBoost演算法偵測是否為人臉，並將人臉框出後，利用訓練好的EfficientNet-B1 Model進行人臉和口罩的辨識，經測試集測試後，人臉辨識部分能夠準確判斷出哪一位、 口罩辨識部分能夠準確判斷口罩的戴法(1.口罩沒帶、 2. 口罩沒帶好、3.口罩帶好)
