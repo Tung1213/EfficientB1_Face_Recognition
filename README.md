@@ -7,6 +7,13 @@
 
 ![image](https://user-images.githubusercontent.com/58096503/233927348-7c5d42c8-ada8-4c14-b413-83876530763b.png)
 
+# 【人臉辨識技術】
+
+1. 自適應增強演算法(AdaBoost)-偵測人臉
+2. 神經網路結構搜索(Neural Architecture Search)-建立EfficientNet系列模型
+
+---
+
 
 # 【門禁辨識流程】
 
@@ -44,8 +51,9 @@
 
 ![image](https://user-images.githubusercontent.com/58096503/233939848-2a1b3c52-b9b9-47de-8fcf-8f0f6db2e0ce.png)
 
+---
 
-# 【模擬環境】
+# 【環境建置】
 
 ![image](https://user-images.githubusercontent.com/58096503/233928356-ba09ead5-9013-479f-adb8-00aad46d0a3a.png)
 
@@ -53,6 +61,7 @@
 #### 大門模擬
 利用了硬體設備MG996R伺服機[20]如圖2，利用MG996R伺服機模擬門打開，門打開的旋轉角度為0至90度，再由90至0度關上門，實作簡易門禁模型
 
+---
 # 【Demo】
 
 
